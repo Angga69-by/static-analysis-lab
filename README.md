@@ -22,9 +22,15 @@ Minimal menganalisis 2 binary PE disertai dengan laporan singkat:
 ---
 *Disusun sebagai bukti proses belajar dan praktikum mandiri Reverse Engineering.*
 
+<<<<<<< HEAD
+
+=======
 * [Log Commit Tambahan 05] Perbaikan format teks dan tipografi laporan laboratorium.
 * [Log Commit Tambahan 06] Sinkronisasi metadata hash MD5 berkas biner sampel A.
 * [Log Commit Tambahan 07] Perapian susunan daftar string yang diekstraksi dari sampel B.
 * [Log Commit Tambahan 08] Pembaruan klausul keamanan dan etika laboratorium virtual.
 * [Log Commit Tambahan 09] Penyesuaian tata letak tabel fungsi impor Windows API.
 * [Log Commit Tambahan 10] Finalisasi dokumen portofolio praktikum analisis statis dasar.
+
+>>>>>>> 207f6e52849292010f456d66d03ceb6368725e5f
+
