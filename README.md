@@ -35,3 +35,4 @@ Minimal menganalisis 2 binary PE disertai dengan laporan singkat:
 >>>>>>> 207f6e52849292010f456d66d03ceb6368725e5f
 
 
+
